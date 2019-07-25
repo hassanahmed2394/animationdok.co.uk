@@ -1,0 +1,6 @@
+[10-May-2019 11:06:58 UTC] PHP Warning:  include(includes/portfolio-whiteboard.php): failed to open stream: No such file or directory in /homex/animationdok/public_html/index2.php on line 197
+[10-May-2019 11:06:58 UTC] PHP Warning:  include(includes/portfolio-whiteboard.php): failed to open stream: No such file or directory in /homex/animationdok/public_html/index2.php on line 197
+[10-May-2019 11:06:58 UTC] PHP Warning:  include(): Failed opening 'includes/portfolio-whiteboard.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /homex/animationdok/public_html/index2.php on line 197
+[10-May-2019 11:06:58 UTC] PHP Warning:  include(includes/explainer-video.php): failed to open stream: No such file or directory in /homex/animationdok/public_html/index2.php on line 204
+[10-May-2019 11:06:58 UTC] PHP Warning:  include(includes/explainer-video.php): failed to open stream: No such file or directory in /homex/animationdok/public_html/index2.php on line 204
+[10-May-2019 11:06:58 UTC] PHP Warning:  include(): Failed opening 'includes/explainer-video.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /homex/animationdok/public_html/index2.php on line 204
